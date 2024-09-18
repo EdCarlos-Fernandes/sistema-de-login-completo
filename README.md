@@ -38,9 +38,6 @@ Este projeto é um sistema de login básico com autenticação de usuários. Per
 2. **Acesso**
    - Acesse `public/login/login.php` para fazer login ou `public/register/register.php` para criar uma nova conta.
 
-3. **Logout**
-   - Para sair, acesse `public/logout.php`.
-
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Abra uma issue ou um pull request com suas sugestões.
