@@ -44,4 +44,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Abra uma issue
 
 ## Licença
 
-Este projeto é licenciado sob a MIT License.
+Este projeto é licenciado sob a MIT License. Veja o arquivo [LICENSE.txt](LICENSE.txt) para mais detalhes.
